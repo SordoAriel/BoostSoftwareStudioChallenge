@@ -1,0 +1,9 @@
+.productImg {
+    width: 10%;
+    border-radius: 5px     
+}
+@media (max-width: 768px) {
+    .productImg {
+        width:50%;
+    }
+  }
